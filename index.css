@@ -1,19 +1,15 @@
 * {
     margin: 0;
     padding: 0;
-}
-.main {
-    width: 100%;
-    background: none;
-    background-position: center;
-    background-size: cover;
-    height: 109vh;
-}
+    box-sizing: border-box;
+    
+} 
+/* nav bar start */
 .navbar {
     width: 1200px;
     height: 75px;
     margin: auto;
-}
+} 
 .icon {
     width: 200px;
     float: left;
@@ -27,7 +23,7 @@
     padding-left: 20px;
     float: left;
     padding-top: 10px;
-    margin-left: 35px;
+    margin-left: 50px;
 
 }
 .menu {
@@ -44,13 +40,15 @@ ul {
 ul li {
     margin-top: 15px;
     margin-left: 30px;
-    font-size: small;
+    font-size: medium;
+    
 
 }
 ul li a{
     color: black;
     font-family: 'Space Grotesk', sans-serif;
     font-weight: bold;
+    text-decoration: none;
 }
 ul li a:hover {
     color: #0F298B;
@@ -61,25 +59,37 @@ ul li a:hover {
     width: 100px;
     background: #0F298B;
     font-size: small;
-    color: #FAFAFA;
-         
+    color: #FAFAFA;  
+
 }
 .btn:focus {
     outline:none ;
 }
-.content {
-    color: #0F298B;
-    height: auto;
-    margin-left: 60px;
+/* navbar ends */
+
+/* First section style start */
+.first_section {
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: row;  */
+    border: 2px solid red;
+    width: 100%;
 }
-.content .par {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    letter-spacing: 1.2px;
-    line-height: 20px;
+.part_a {
+    border: 2px solid blue;
+    width: 50%;
 }
-.image {
-    float: right;
-    margin-right: 300px;
-    padding-left: 10px;
+#learn_more_btn {
+    height: 40px;
+    width: 100px;
+    background: #0F298B;
+    font-size: small;
+}
+#learn_more_btn a {
+    color: #FAFAFA;
+    text-decoration: none;
+}
+.part_b {
+    border: 2px solid green;
+    width: 50%;
 }
