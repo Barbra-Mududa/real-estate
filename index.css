@@ -29,3 +29,14 @@
     padding-top: 10px;
 
 }
+.menu {
+    width: 400px;
+    height: 65px;
+    float: left;
+}
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
