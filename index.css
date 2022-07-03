@@ -49,4 +49,8 @@ ul li {
 ul li a{
     color: black;
     font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+ul li a:hover {
+    color: #0F298B;
 }
