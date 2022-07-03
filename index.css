@@ -99,3 +99,25 @@
     background-color: #FAFAFA;
 }
 /* hero section end */
+
+/* Dropdown cards */
+.dropdown {
+    border: 2px solid lightgray;
+    box-sizing: border-box content-box;
+    width: fit-content;
+    border-radius: 5%;
+    display: flex;
+    padding-top: 20px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 300px;
+    background-color: #f8f8f8;
+}
+.dropdown li {
+    list-style-type: none;
+}
+.dropdown li a{
+    text-decoration: none;
+    margin: 60px;
+}
+
