@@ -41,8 +41,8 @@ ul {
     align-items: center;
 }
 ul li {
-    margin-top: 20px;
-    margin-left: 45px;
+    margin-top: 15px;
+    margin-left: 30px;
     font-size: small;
 
 }
@@ -53,4 +53,19 @@ ul li a{
 }
 ul li a:hover {
     color: #0F298B;
+}
+.btn {
+    float: left;
+    height: 40px;
+    width: 100px;
+    background: #0F298B;
+    font-size: small;
+    color: #FAFAFA;
+   
+    
+
+    
+}
+.btn:focus {
+    outline:none ;
 }
