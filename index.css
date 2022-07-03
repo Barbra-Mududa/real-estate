@@ -75,14 +75,12 @@
 }
 .hero .hero-content p {
     padding-bottom: 10px;
-    
-
 }
 .hero .hero-image {
     height: 400px;
     width: 90%;
     float: right;
-    margin-lright: 400px;
+    margin-right: 400px;
 
 }
 .hero .hero-image img {
