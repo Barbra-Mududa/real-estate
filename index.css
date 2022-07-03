@@ -79,6 +79,7 @@ ul li a:hover {
 .part_a {
     border: 2px solid blue;
     width: 50%;
+    padding-left: 150px;
 }
 #learn_more_btn {
     height: 40px;
