@@ -46,3 +46,7 @@ ul li {
     font-size: small;
 
 }
+ul li a{
+    color: black;
+    font-family: 'Space Grotesk', sans-serif;
+}
