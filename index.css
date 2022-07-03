@@ -19,3 +19,13 @@
     float: left;
     height: 70px; 
 }
+.logo {
+    color: black;
+    font-size:30px;
+    font-family: 'Oleo Script', cursive; 
+    font-style: italic;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+
+}
