@@ -156,4 +156,25 @@
     display: flex;
     background-color: #f8f8f8;
 }
-
+.card-display card1 {
+    width: 333%;
+    margin-left: 40px;
+    padding-left: 20px;
+}
+.card1 img {
+    padding: 10px;
+    
+}
+.card-display card2 {
+    width: 33%;
+    margin-left: 40px;
+    padding-left: 20px;
+}
+.card2 img{
+    padding: 10px;
+}
+.card-display card3 {
+    width:33%;
+    margin-left: 10px;
+    padding-left: 10px;
+}
