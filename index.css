@@ -115,9 +115,16 @@
 }
 .dropdown li {
     list-style-type: none;
+    width: 33%;
 }
 .dropdown li a{
     text-decoration: none;
     margin: 60px;
+    color: #0F298B;
+
 }
+.dropdown li .btn {
+    color: #f8f8f8;
+}
+/* Dropdown card ends */
 
