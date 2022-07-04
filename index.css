@@ -128,3 +128,32 @@
 }
 /* Dropdown card ends */
 
+/* our products  starts*/
+.our-products {
+    margin-top: 70px;
+    margin-left: 180px;
+    width: 100%;
+    padding-left: 100px;
+}
+.products {
+    color: #0F298B;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.explain {
+    margin-left: 300px;
+    color: #0F298B;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+
+}
+.explain p{
+    color: black; 
+}
+.card-display {
+    display: flex;
+    background-color: #f8f8f8;
+}
+
