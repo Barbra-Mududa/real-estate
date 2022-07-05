@@ -98,15 +98,18 @@ hr {
     font-weight: bold;
     line-height: 1.4;
     margin-bottom: 10px;
+    font-family:'Space Grotesk', sans-serif;
 }
+
 .hero .hero-content p {
     padding-bottom: 10px;
+    color: black;
+    
 }
 .hero .hero-image {
     height: 400px;
-    width: 450px;
-    float: right;
-    margin-right: 400px;
+    width: 500px;
+    margin-right: 450px;
 
 }
 .hero .hero-image img {
@@ -114,45 +117,64 @@ hr {
     border-radius: 10px;
     padding-right: 400px;
 }
-/* 
-.hero .hero-content a {
-    background-color: blue;
-    color: #FAFAFA;
-    padding: 10px;
-    border: 2px solid #0F298B;
-} */
 .hero .hero-content a:hover {
     color: black;
     background-color: #FAFAFA;
 }
+#btn {
+display: flex;
+align-items: center;
+width: 45%;
+justify-content: space-between;
+}
+
 /* hero section end */
 
 /* Dropdown cards */
 .dropdown {
-    border: 2px solid lightgray;
-    box-sizing: border-box content-box;
-    width: fit-content;
-    border-radius: 5%;
+    width: 65%;
+    margin: 100px auto;
+    background-color: lightgray;
+    border-radius: 20px;
+}
+.dropdown .inner-dropdown {
     display: flex;
-    padding-top: 20px;
-    margin-top: 20px;
-    text-align: center;
-    margin-left: 300px;
-    background-color: #f8f8f8;
-}
-.dropdown li {
-    list-style-type: none;
-    width: 33%;
-}
-.dropdown li a{
-    text-decoration: none;
-    margin: 60px;
-    color: #0F298B;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
 
 }
-.dropdown li .btn {
-    color: #f8f8f8;
+.dropdown-icons > icons {
+    font-size: 20px;
+    font-weight: 350px;
+    margin-top: 5px;
+    font-family:'Space Grotesk', sans-serif;
 }
+#search-btn {
+	display: flex;
+	align-items: center;
+}
+#search-btn > span {
+	margin-right: 10px;
+	color: #fff;
+}
+.icon{
+    display: flex;
+	align-items: center;
+}
+.icon > label {
+    color: black;
+}
+.icon > label,
+span {
+	color: #0f298b;
+	font-size: 20px;
+	font-weight: 500;
+	cursor: pointer;
+}
+#search-btn.material-symbols-rounded {
+	font-size: 23px;
+	cursor: pointer;
 /* Dropdown card ends */
 
 /* our products  starts*/
