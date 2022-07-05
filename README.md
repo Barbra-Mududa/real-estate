@@ -1,9 +1,9 @@
 # Real Estate Project
 
 # Table content
-1. [Introduction](Introduction)
-2. [Setup Istructions](setup-instructions)
-## Introduction<a name= introduction>
+
+
+## Introduction<
 This is a landing page to a real website which gives an overview of services offered.
 
 ## Technologies used 
