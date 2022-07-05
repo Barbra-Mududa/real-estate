@@ -2,8 +2,8 @@
 
 # Table content
 1. [Introduction](Introduction)
-2. [Setup Istructions](Setup-Instructions)
-## Introduction
+2. [Setup Istructions](setup-instructions)
+## Introduction<a name= introduction>
 This is a landing page to a real website which gives an overview of services offered.
 
 ## Technologies used 
@@ -19,7 +19,7 @@ This is a landing page to a real website which gives an overview of services off
 
 [MIT License](LICENSE)
 
-## Setup Instructions
+## Setup Instructions<a name= setup-instructions>
 
 1. Clone this repo
 
