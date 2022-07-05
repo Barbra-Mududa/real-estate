@@ -3,7 +3,7 @@
 # Table content
 
 
-## Introduction<
+## Introduction
 This is a landing page to a real website which gives an overview of services offered.
 
 ## Technologies used 
@@ -36,5 +36,7 @@ cd real-estate
 3. Run `index.html`
 
 ## Deployment
+
+[link](https://barbra-mududa.github.io/real-estate/)
 
 
