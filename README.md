@@ -5,10 +5,10 @@
 2. [Author](#author)
 3. [Website Information](#website-Information)
 
-        a. [Technologies used](#technologies-used)
-        b. [License](#setup-instructions)
-        c. [Setup Instruction](#setup-instructions)
-        d. [Deployment](#deployment)
+     a. [Technologies used](#technologies-used)
+     b. [License](#setup-instructions)
+     c. [Setup Instruction](#setup-instructions)
+     d. [Deployment](#deployment)
 
 ## Introduction <a name= "introduction"></a>
 This is a landing page to a real website which gives an overview of services offered.
@@ -18,16 +18,16 @@ This is a landing page to a real website which gives an overview of services off
 [Barbra Mududa](https://github.com/Barbra-Mududa)
 
 ## Website Information <a name= "website-information"></a>
-## Technologies used <a name= "technologies-used"></a>
+### Technologies used <a name= "technologies-used"></a>
 
 - HTML for presentation
 - CSS for styling
 
-## License <a name= "license"></a>
+### License <a name= "license"></a>
 
 [MIT License](LICENSE)
 
-## Setup Instructions <a name= "setup-instructions"></a>
+### Setup Instructions <a name= "setup-instructions"></a>
 
 1. Clone this repo
 
@@ -43,7 +43,7 @@ cd real-estate
 
 3. Run `index.html`
 
-## Deployment <a name= "deployment"></a>
+### Deployment <a name= "deployment"></a>
 
 [link](https://barbra-mududa.github.io/real-estate/)
 
