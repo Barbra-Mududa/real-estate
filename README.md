@@ -1,25 +1,32 @@
 # Real Estate Project
 
 # Table content
+1. [Introduction](#introduction)
+2. [Author](#author)
+3. [Website Information](#website-Information)
+        a. [Technologies used](#technologies-used)
+        b. [License](#setup-instructions)
+        c. [Setup Instruction](#setup-instructions)
+        d. [Deployment](#deployment)
 
-
-## Introduction
+## Introduction <a name= "introduction"></a>
 This is a landing page to a real website which gives an overview of services offered.
 
-## Technologies used 
+## Author <a name= "author"></a>
+
+[Barbra Mududa](https://github.com/Barbra-Mududa)
+
+## Website Information <a name= "website-information"></a>
+## Technologies used <a name= "technologies-used"></a>
 
 - HTML for presentation
 - CSS for styling
 
-## Author
-
-[Barbra Mududa](https://github.com/Barbra-Mududa)
-
-## License
+## License <a name= "license"></a>
 
 [MIT License](LICENSE)
 
-## Setup Instructions<a name= setup-instructions>
+## Setup Instructions <a name= "setup-instructions"></a>
 
 1. Clone this repo
 
@@ -35,7 +42,7 @@ cd real-estate
 
 3. Run `index.html`
 
-## Deployment
+## Deployment <a name= "deployment"></a>
 
 [link](https://barbra-mududa.github.io/real-estate/)
 
