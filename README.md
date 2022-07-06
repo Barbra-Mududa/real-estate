@@ -6,8 +6,11 @@
 3. [Website Information](#website-Information)
 
      a. [Technologies used](#technologies-used)
+
      b. [License](#setup-instructions)
+
      c. [Setup Instruction](#setup-instructions)
+     
      d. [Deployment](#deployment)
 
 ## Introduction <a name= "introduction"></a>
